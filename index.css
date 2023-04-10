@@ -1,0 +1,30 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background-color: red;
+}
+.name{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.links{
+    color: white;
+}
+.hero{
+    background-color: rgb(219, 23, 128);
+
+}
+.tc{
+    color: aliceblue;
+}
+#cat{
+    color: white;
+}
+.padd{
+    padding: 16px;
+    border-radius: 15px;
+}
